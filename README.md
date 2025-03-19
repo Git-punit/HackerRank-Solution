@@ -1,1 +1,1 @@
-# LeetCode-Solution
+# HackerRank-Solution
